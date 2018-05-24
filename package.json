@@ -1,0 +1,14 @@
+{
+  "name": "simple-effector",
+  "version": "1.0.0",
+  "description": "simple effect components for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tauhoo",
+  "license": "ISC",
+  "dependencies": {
+    "styled-components": "^3.2.6"
+  }
+}
